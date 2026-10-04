@@ -41,3 +41,9 @@ Machine Learning Model
    |
    v
 Predicted Score
+
+## Live Deployment
+
+The application is deployed on Render:
+
+https://dockerproject-tvt8.onrender.com
